@@ -1,1 +1,1 @@
-# Omok
+# Gomoku
